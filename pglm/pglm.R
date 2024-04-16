@@ -6,9 +6,11 @@
 install.packages("readxl")
 install.packages("httr")
 install.packages("pglm")
+install.packages("sandwich")
 library("httr")
 library("readxl")
 library("pglm")
+library("sandwich")
 # Import Data Excel Into R From Github Olah Data Semarang (timbulwidodostp)
 github_link <- "https://github.com/timbulwidodostp/pglm/raw/main/pglm/ships.xlsx"
 temp_file <- tempfile(fileext = ".xlsx")
