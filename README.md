@@ -1,6 +1,8 @@
 # pglm
 Fixed Effect Poisson Model Use Package pglm With (In) R Software
 
+https://www.youtube.com/watch?v=x9gedB7alXY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
